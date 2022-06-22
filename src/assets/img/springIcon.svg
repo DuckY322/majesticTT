@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="79" viewBox="0 0 26 79">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e3e3e"/>
+      <stop offset="0.5" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#3e3e3e"/>
+    </linearGradient>
+  </defs>
+  <g id="Пружинка" transform="translate(-0.143)">
+    <path id="Контур_10004" data-name="Контур 10004" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -870.97)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10023" data-name="Контур 10023" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -832.842)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10007" data-name="Контур 10007" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -863.344)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10021" data-name="Контур 10021" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -825.216)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10009" data-name="Контур 10009" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -855.719)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10019" data-name="Контур 10019" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -817.591)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10011" data-name="Контур 10011" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -848.093)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10017" data-name="Контур 10017" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -809.965)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10013" data-name="Контур 10013" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -840.468)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10015" data-name="Контур 10015" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -802.34)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10005" data-name="Контур 10005" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -867.157)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10022" data-name="Контур 10022" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -829.029)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10006" data-name="Контур 10006" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -859.532)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10020" data-name="Контур 10020" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -821.404)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10008" data-name="Контур 10008" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -851.906)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10018" data-name="Контур 10018" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -813.778)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10010" data-name="Контур 10010" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -844.28)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10016" data-name="Контур 10016" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -806.152)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10012" data-name="Контур 10012" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -836.655)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <path id="Контур_10014" data-name="Контур 10014" d="M1643.474,876.748l-25.149-5.143" transform="translate(-1617.947 -798.527)" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+    <rect id="Прямоугольник_2250" data-name="Прямоугольник 2250" width="26" height="2" transform="translate(0.143 7)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2268" data-name="Прямоугольник 2268" width="26" height="2" transform="translate(0.143 46)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2251" data-name="Прямоугольник 2251" width="26" height="2" transform="translate(0.143 15)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2266" data-name="Прямоугольник 2266" width="26" height="2" transform="translate(0.143 55)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2253" data-name="Прямоугольник 2253" width="26" height="2" transform="translate(0.143 22)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2264" data-name="Прямоугольник 2264" width="26" height="1" transform="translate(0.143 62)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2255" data-name="Прямоугольник 2255" width="26" height="2" transform="translate(0.143 31)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2262" data-name="Прямоугольник 2262" width="26" height="2" transform="translate(0.143 70)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2257" data-name="Прямоугольник 2257" width="26" height="2" transform="translate(0.143 39)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2260" data-name="Прямоугольник 2260" width="26" height="2" transform="translate(0.143 77)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2249" data-name="Прямоугольник 2249" width="26" height="2" transform="translate(0.143 3)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2269" data-name="Прямоугольник 2269" width="26" height="2" transform="translate(0.143 43)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2252" data-name="Прямоугольник 2252" width="26" height="2" transform="translate(0.143 12)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2267" data-name="Прямоугольник 2267" width="26" height="2" transform="translate(0.143 51)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2254" data-name="Прямоугольник 2254" width="26" height="2" transform="translate(0.143 19)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2265" data-name="Прямоугольник 2265" width="26" height="2" transform="translate(0.143 58)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2256" data-name="Прямоугольник 2256" width="26" height="1" transform="translate(0.143 26)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2263" data-name="Прямоугольник 2263" width="26" height="2" transform="translate(0.143 65)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2258" data-name="Прямоугольник 2258" width="26" height="2" transform="translate(0.143 34)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2261" data-name="Прямоугольник 2261" width="26" height="1" transform="translate(0.143 74)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_2248" data-name="Прямоугольник 2248" width="26" height="2" transform="translate(0.143)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
